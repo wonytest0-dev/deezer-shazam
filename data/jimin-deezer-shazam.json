@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24/05/2026, 20:10:16 KST",
-  "totalEntries": 21,
+  "updatedAt": "25/05/2026, 17:14:03 KST",
+  "totalEntries": 17,
   "deezer": [
     {
       "title": "Who",
@@ -29,47 +29,47 @@
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 2,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 3,
-      "movement": "+3",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Saudi Arabia",
-      "rank": 4,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
       "rank": 5,
-      "movement": "-1",
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 6,
-      "movement": "+6",
+      "rank": 8,
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 14,
+      "rank": 9,
+      "movement": "-6",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 10,
+      "movement": "-4",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 20,
+      "movement": "-6",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 21,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -77,31 +77,15 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 15,
-      "movement": "+6",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 16,
-      "movement": "-1",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Chile",
-      "rank": 78,
+      "rank": 22,
       "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
-      "title": "Be Mine",
-      "country": "Saudi Arabia",
-      "rank": 6,
+      "title": "Who",
+      "country": "Indonesia",
+      "rank": 43,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -109,48 +93,32 @@
     {
       "title": "Be Mine",
       "country": "Japan",
-      "rank": 11,
-      "movement": "-1",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Philippines",
-      "rank": 36,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Japan",
-      "rank": 3,
-      "movement": "-1",
+      "rank": 30,
+      "movement": "-19",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Argentina",
-      "rank": 4,
-      "movement": "=",
+      "rank": 3,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
-      "country": "Philippines",
-      "rank": 19,
+      "country": "Japan",
+      "rank": 6,
       "movement": "-3",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
-      "country": "Saudi Arabia",
-      "rank": 34,
-      "movement": "NE",
+      "country": "Philippines",
+      "rank": 32,
+      "movement": "-13",
       "type": "single",
       "isTop1": false
     }
@@ -159,16 +127,16 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 17,
-      "movement": "+2",
+      "rank": 21,
+      "movement": "-4",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 182,
-      "movement": "-37",
+      "rank": 174,
+      "movement": "+8",
       "type": "single",
       "isTop1": false
     }
