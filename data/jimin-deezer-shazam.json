@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/05/2026, 21:22:05 KST",
+  "updatedAt": "26/05/2026, 16:39:51 KST",
   "totalEntries": 17,
   "deezer": [
     {
@@ -91,14 +91,6 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
-      "country": "Japan",
-      "rank": 30,
-      "movement": "-19",
-      "type": "single",
-      "isTop1": false
-    },
-    {
       "title": "Like Crazy",
       "country": "Argentina",
       "rank": 3,
@@ -121,22 +113,30 @@
       "movement": "-13",
       "type": "single",
       "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Japan",
+      "rank": 30,
+      "movement": "-19",
+      "type": "single",
+      "isTop1": false
     }
   ],
   "shazam": [
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 21,
-      "movement": "-4",
+      "rank": 22,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 174,
-      "movement": "+8",
+      "rank": 118,
+      "movement": "+56",
       "type": "single",
       "isTop1": false
     }
@@ -149,13 +149,13 @@
       "shazamTop1": 0
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
