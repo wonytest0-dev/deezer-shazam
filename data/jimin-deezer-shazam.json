@@ -1,7 +1,15 @@
 {
-  "updatedAt": "29/05/2026, 16:49:32 KST",
+  "updatedAt": "29/05/2026, 20:22:13 KST",
   "totalEntries": 16,
   "deezer": [
+    {
+      "title": "Who",
+      "country": "Argentina",
+      "rank": 1,
+      "movement": "+1",
+      "type": "single",
+      "isTop1": true
+    },
     {
       "title": "Who",
       "country": "Japan",
@@ -20,15 +28,15 @@
     },
     {
       "title": "Who",
-      "country": "Singapore",
-      "rank": 1,
-      "movement": "NE",
+      "country": "Philippines",
+      "rank": 2,
+      "movement": "+1",
       "type": "single",
-      "isTop1": true
+      "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Argentina",
+      "country": "Singapore",
       "rank": 2,
       "movement": "-1",
       "type": "single",
@@ -37,88 +45,80 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 2,
-      "movement": "+4",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
       "rank": 3,
-      "movement": "+2",
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 7,
-      "movement": "+12",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 8,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 10,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 11,
-      "movement": "NE",
+      "rank": 23,
+      "movement": "-16",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Austria",
-      "rank": 19,
-      "movement": "-6",
+      "rank": 40,
+      "movement": "-21",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 74,
+      "movement": "-66",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 90,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 91,
+      "movement": "-81",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Japan",
+      "rank": 2,
+      "movement": "+3",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Argentina",
-      "rank": 4,
-      "movement": "-2",
+      "rank": 3,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
-      "country": "Japan",
-      "rank": 5,
-      "movement": "-3",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Japan",
-      "rank": 10,
-      "movement": "+3",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
+      "title": "Smeraldo Garden Marching Band",
       "country": "Philippines",
-      "rank": 61,
-      "movement": "NE",
+      "rank": 41,
+      "movement": "-9",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Smeraldo Garden Marching Band",
+      "country": "Argentina",
+      "rank": 63,
+      "movement": "-5",
       "type": "single",
       "isTop1": false
     }
@@ -127,8 +127,8 @@
     {
       "title": "Who",
       "country": "Japan",
-      "rank": 27,
-      "movement": "=",
+      "rank": 26,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     }
@@ -147,7 +147,7 @@
       "shazamTop1": 0
     },
     {
-      "title": "Be Mine",
+      "title": "Smeraldo Garden Marching Band",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
