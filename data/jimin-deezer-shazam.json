@@ -1,6 +1,6 @@
 {
-  "updatedAt": "28/05/2026, 20:32:04 KST",
-  "totalEntries": 17,
+  "updatedAt": "29/05/2026, 16:49:32 KST",
+  "totalEntries": 16,
   "deezer": [
     {
       "title": "Who",
@@ -91,22 +91,6 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
-      "country": "Japan",
-      "rank": 10,
-      "movement": "+3",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Philippines",
-      "rank": 61,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
       "title": "Like Crazy",
       "country": "Argentina",
       "rank": 4,
@@ -121,6 +105,22 @@
       "movement": "-3",
       "type": "single",
       "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Japan",
+      "rank": 10,
+      "movement": "+3",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Philippines",
+      "rank": 61,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
     }
   ],
   "shazam": [
@@ -128,15 +128,7 @@
       "title": "Who",
       "country": "Japan",
       "rank": 27,
-      "movement": "+2",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Singapore",
-      "rank": 126,
-      "movement": "-8",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     }
@@ -149,13 +141,13 @@
       "shazamTop1": 0
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
