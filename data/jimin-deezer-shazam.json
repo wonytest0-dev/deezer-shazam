@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29/05/2026, 20:22:13 KST",
-  "totalEntries": 16,
+  "updatedAt": "30/05/2026, 15:41:49 KST",
+  "totalEntries": 15,
   "deezer": [
     {
       "title": "Who",
@@ -91,6 +91,14 @@
       "isTop1": false
     },
     {
+      "title": "Be Mine",
+      "country": "Philippines",
+      "rank": 50,
+      "movement": "+11",
+      "type": "single",
+      "isTop1": false
+    },
+    {
       "title": "Like Crazy",
       "country": "Japan",
       "rank": 2,
@@ -103,22 +111,6 @@
       "country": "Argentina",
       "rank": 3,
       "movement": "+1",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "country": "Philippines",
-      "rank": 41,
-      "movement": "-9",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Smeraldo Garden Marching Band",
-      "country": "Argentina",
-      "rank": 63,
-      "movement": "-5",
       "type": "single",
       "isTop1": false
     }
@@ -141,13 +133,13 @@
       "shazamTop1": 0
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
     },
     {
-      "title": "Smeraldo Garden Marching Band",
+      "title": "Like Crazy",
       "type": "single",
       "deezerTop1": 0,
       "shazamTop1": 0
